@@ -1,0 +1,15 @@
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.deps.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.pdb
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.pdb
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.Test\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.Test.pdb

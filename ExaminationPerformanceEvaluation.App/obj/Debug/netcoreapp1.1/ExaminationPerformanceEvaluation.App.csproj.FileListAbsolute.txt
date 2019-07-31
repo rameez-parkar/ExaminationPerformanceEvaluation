@@ -1,0 +1,10 @@
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\bin\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.pdb
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.csprojResolveAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.dll
+C:\Users\rparkar\Desktop\Assignments\ExaminationPerformanceEvaluation\ExaminationPerformanceEvaluation.App\obj\Debug\netcoreapp1.1\ExaminationPerformanceEvaluation.App.pdb
